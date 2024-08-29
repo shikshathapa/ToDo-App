@@ -1,6 +1,5 @@
+import Test from "../Test";
 import Home from "./Home";
-import Test from "./test";
-
 
 const App = () => {
   return (
